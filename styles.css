@@ -5,6 +5,7 @@ background-color: black;
 text-align:center;
 }
 img{
+    height: %;
     width: 50%;
     transform: translateY();
     padding-right: 30%;
@@ -27,7 +28,7 @@ h4{
     transform: translateX(75px);
     
 }
-change
+
 section{
     text-align: right;
     transform: translateY(-385px);
